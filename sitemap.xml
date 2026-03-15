@@ -2,26 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://austinkc91.github.io/hvac-load-calculator/</loc>
-        <lastmod>2026-03-14</lastmod>
+        <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>https://austinkc91.github.io/hvac-load-calculator/ac-size-calculator.html</loc>
-        <lastmod>2026-03-14</lastmod>
+        <lastmod>2026-03-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://austinkc91.github.io/hvac-load-calculator/furnace-size-calculator.html</loc>
-        <lastmod>2026-03-14</lastmod>
+        <lastmod>2026-03-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://austinkc91.github.io/hvac-load-calculator/heat-pump-sizing-calculator.html</loc>
-        <lastmod>2026-03-14</lastmod>
+        <lastmod>2026-03-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://austinkc91.github.io/hvac-load-calculator/what-size-ac-for-1000-sq-ft.html</loc>
+        <lastmod>2026-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://austinkc91.github.io/hvac-load-calculator/what-size-ac-for-1500-sq-ft.html</loc>
+        <lastmod>2026-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://austinkc91.github.io/hvac-load-calculator/what-size-ac-for-2000-sq-ft.html</loc>
+        <lastmod>2026-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://austinkc91.github.io/hvac-load-calculator/what-size-ac-for-2500-sq-ft.html</loc>
+        <lastmod>2026-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://austinkc91.github.io/hvac-load-calculator/what-size-ac-for-3000-sq-ft.html</loc>
+        <lastmod>2026-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
     </url>
 </urlset>
